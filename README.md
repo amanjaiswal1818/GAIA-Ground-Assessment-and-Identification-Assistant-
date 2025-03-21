@@ -61,9 +61,9 @@ The system utilizes:
 # Image Test-Res
 ![preview img](PH-Test-GT2-Res.jpeg)
 # Video Test
-![Video Preview](test-vid-GT.mov)
+
 # Video Test-res
-![Video Preview](whatsapp-res.mp4)
+[![Video Preview](whatsapp-res.mp4)](https://github.com/user-attachments/assets/5efba918-4557-4828-bd0a-0c8faf3fb53d))
 
 ## Future Enhancements
 
