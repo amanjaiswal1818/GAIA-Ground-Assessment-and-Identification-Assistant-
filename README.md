@@ -56,17 +56,20 @@ The system utilizes:
 
 ## Results
 
-The system achieved an average pothole detection accuracy of 75% in testing. [cite: 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 56, 57, 58, 59, 60, 61, 62, 63, 64]
+# Image Test
+![preview img](PH-Test-GT2.jpeg)
+# Image Test-Res
+![preview img](PH-Test-GT2-Res.jpeg)
 
 ## Future Enhancements
 
-* Improving model performance under challenging conditions (poor lighting, adverse weather). [cite: 243, 53, 54]
+* Improving model performance under challenging conditions (poor lighting, adverse weather).
    
-* Integration with Vehicle-to-Everything (V2X) communication. [cite: 244, 54]
+* Integration with Vehicle-to-Everything (V2X) communication. 
    
-* Integration with other smart city technologies. [cite: 633, 634, 635]
+* Integration with other smart city technologies. 
    
-* Live and video inferencing. [cite: 1310, 1311, 1312, 1313, 1314, 1315, 1316, 1317, 1318, 1319]
+* Live and video inferencing. 
 
 ## Team
 
