@@ -60,6 +60,10 @@ The system utilizes:
 ![preview img](PH-Test-GT2.jpeg)
 # Image Test-Res
 ![preview img](PH-Test-GT2-Res.jpeg)
+# Video Test
+![preview img](test-vid-GT.mov)
+# Video Test-res
+![preview img](whatsapp-res.mp4)
 
 ## Future Enhancements
 
