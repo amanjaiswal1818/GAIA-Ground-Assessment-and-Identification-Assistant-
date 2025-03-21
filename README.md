@@ -61,15 +61,12 @@ The system utilizes:
 ![preview img](PH-Test-GT2-Res.jpeg)
 
 
-## Future Enhancements
+## For Detailed Information Refer to the below Documents 
+* GAIA Final Report.pdf
+* GAIA PPT.pdf
+* SRS pothole detection.pdf
+* RP Final.pdf
 
-* Improving model performance under challenging conditions (poor lighting, adverse weather).
-   
-* Integration with Vehicle-to-Everything (V2X) communication. 
-   
-* Integration with other smart city technologies. 
-   
-* Live and video inferencing. 
 
 ## Team
 
