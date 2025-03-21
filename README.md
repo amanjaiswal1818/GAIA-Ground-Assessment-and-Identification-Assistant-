@@ -54,16 +54,12 @@ The system utilizes:
    
 * **Cloud Computing:** For data processing, storage, and visualization. [cite: 223, 224, 28, 31, 35, 36, 41, 42, 43, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 64, 641, 642]
 
-## Results
 
-# Image Test
+## Image Test
 ![preview img](PH-Test-GT2.jpeg)
-# Image Test-Res
+## Image Test-Res
 ![preview img](PH-Test-GT2-Res.jpeg)
-# Video Test
 
-# Video Test-res
-(https://github.com/user-attachments/assets/5efba918-4557-4828-bd0a-0c8faf3fb53d))
 
 ## Future Enhancements
 
